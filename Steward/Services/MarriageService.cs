@@ -46,7 +46,7 @@ namespace Steward.Services
 
             var embedBuilder = new EmbedBuilder()
             {
-                Title = "A new noble marriage has happened!"
+                Title = "A new noble marriage has occurred!"
             };
             embedBuilder.AddField( new EmbedFieldBuilder()
             {
