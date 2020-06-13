@@ -110,7 +110,7 @@ namespace Steward.Services
             var embedBuilder = new EmbedBuilder
             {
                 Color = Color.Purple,
-                Title = "You have been assigned to the following staff Action:",
+                Title = "You have been assigned to the following staff action:",
             };
 
             embedBuilder.AddField(new EmbedFieldBuilder
